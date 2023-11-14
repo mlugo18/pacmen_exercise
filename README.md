@@ -1,8 +1,11 @@
 # PacMen Exercise
-## Description:
-This Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+
+##. Description: 
+This exercise is a factory for making PacMen and have them move and bounce around the page. When button "Start Game" is pressed, the script is run and the PacMen will start moving along the webpage and bouncing off the page walls when it each PacMan hits the wall (page limits). Pressing the "Add PacMan" will run the code to determine the position of the new PacMan image and add it to the "game" div. It is then added to the array of PacMen, which keeps track of the position and velocity of each PacMan. 
+
+##. How to Run:
+
+
+##. Roadmap of Future Improvements: The existing code can be modified to run loop through the array for the multiple images of PacMan to add variety to the game. 
+
+##. License Information: Please read LICENSE.md file for license information.
