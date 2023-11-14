@@ -1,6 +1,6 @@
-# pacmen_exercise
-## PacMen Exercise
-Factory for making pacmen
+# PacMen Exercise
+## Description:
+This Factory for making pacmen
 You are given a starter.html code.
 When button "make one" is pressed you need to complete the code 
 to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
