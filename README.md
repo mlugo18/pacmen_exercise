@@ -6,6 +6,8 @@ This exercise is a factory for making PacMen and have them move and bounce aroun
 ## How to Run:
 
 
-## Roadmap of Future Improvements: The existing code can be modified to run loop through the array for the multiple images of PacMan to add variety to the game. 
+## Roadmap of Future Improvements: 
+The existing code can be modified to run loop through the array for the multiple images of PacMan to add variety to the game. 
 
-## License Information: Please read LICENSE.md file for license information.
+## License Information: 
+Please read LICENSE.md file for license information.
